@@ -1,0 +1,15 @@
+<group>
+	<countX>50</countX>
+	<stepX>80</stepX>
+	<twistX>34.2</twistX>
+<group/>
+<Scale>0.637755</Scale>
+	<Rotate>180</Rotate>
+	<Background>244.592</Background>
+<shiftY>0</shiftY>
+	<rotate>0</rotate>
+	<size>6.25573, 11.4619</size>
+	<color>0, 0, 0, 255</color>
+	<filled>0</filled>
+	<type>0</type>
+</group>
